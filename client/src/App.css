@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.registrationForm {
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.registrationForm button {
+  margin: 15px;
+}
+.registrationForm h2 {
+  color: rgb(0, 102, 255);
+}
+.DataName{
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 30px;
+}
+.nameDAta{
+  display: flex;
+  flex-flow: column-reverse;
+}
+
